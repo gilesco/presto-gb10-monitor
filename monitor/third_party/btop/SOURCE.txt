@@ -1,0 +1,4 @@
+btop commit fd1d2920e5442045f89b8991cca4c3c503ff48f6 (Wed Oct 28 10:12:10 2026 +0100)
+Theme files from https://github.com/aristocratos/btop (themes/ and the built-in Default_theme in src/btop_theme.cpp), Apache-2.0 (LICENSE). Converted by tools/themes/import_btop.py.
+Credit: the btop colour themes are by aristocratos (btop) and the theme authors; where a .theme file names its author (33 of 41), that credit is kept unchanged. Used with thanks under Apache-2.0.
+The built-in Default palette appears in the firmware as "System-D" (the default theme).

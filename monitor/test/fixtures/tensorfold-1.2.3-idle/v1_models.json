@@ -1,0 +1,1 @@
+{"object": "list", "data": [{"id": "GLM-5.3-Flash-EXL3", "object": "model", "created": 1794008320, "owned_by": "tensorfold", "context_length": 524288, "max_model_len": 524288, "reasoning": {"default_enabled": true, "supported_efforts": ["max", "high", "low"]}}]}

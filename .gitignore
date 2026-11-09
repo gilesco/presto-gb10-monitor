@@ -1,0 +1,12 @@
+build/
+build-silent/
+deps/
+__pycache__/
+monitor/include/config.h
+monitor/test/build-host/
+# a UF2 embeds the compiled-in config.h (WiFi credentials) — never commit one
+*.uf2
+
+# capture strays from verification sessions (never publish these)
+/*.out
+/*.log
